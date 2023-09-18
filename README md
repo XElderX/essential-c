@@ -1,0 +1,33 @@
+# C Language Fundamentals
+
+Welcome to the C Language Fundamentals repository! This repository is designed to store snippets of basic introduction to the C programming language. 
+
+## Table of Contents
+
+## Introduction
+
+C is a powerful and widely-used programming language known for its efficiency and versatility. Understanding its fundamentals is essential for anyone interested in systems programming, embedded systems, or software development in general. This repository is meant to be your guide into the world of C, covering everything from basic syntax to advanced topics.
+
+## Getting Started
+
+To get started with learning or refreshing your C language skills, follow these steps:
+
+1. Clone or download this repository to your local machine.
+2. Explore the provided code examples, and resources in the respective directories.
+3. Start with the basics and gradually progress to more advanced concepts.
+4. Feel free to experiment with the code examples and modify them to gain a deeper understanding.
+
+## Topics Covered
+
+This repository covers a wide range of topics related to C programming, including but not limited to:
+
+- C language syntax and structure
+- Variables, data types, and operators
+- Control structures (if statements, loops, etc.)
+- Functions and modular programming
+- Pointers and memory management
+- File handling
+- Data structures and algorithms in C
+
+We strive to provide clear explanations and practical examples for each topic to help you grasp the essentials of C programming.
+
