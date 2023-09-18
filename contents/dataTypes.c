@@ -9,7 +9,7 @@ int main()
     double doubleValue = 3.14159265359; // Declaration and initialization of a double
 
     char character = 'A';                                    // Declare and initialize a character variable
-    char string[] = "String declare this way as char array"; // Declare and initialize a character variable
+    char string[] = "String declare this way as char array"; // Declare and initialize string a character variable
 
     num1 = 10; // Assign values to the integer variables
     num2 = 20;
