@@ -82,13 +82,13 @@ int main()
     printf("you get as many ascii symbols as you have rows! \n");
     do
     {
+        rows--;
         if (asciiCode >= 255)
         {
             continue;
         }
         printf("%c | ", asciiCode);
         asciiCode += 1;
-        rows--;
     } while (rows >= 0);
 
     return 0;

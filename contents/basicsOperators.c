@@ -41,6 +41,6 @@ int main()
     {
         printf(" 2nd number is greater than 1dt number \n");
     }
-    
+
     return 0;
 }
