@@ -19,6 +19,8 @@ int main()
     struct Person person1;
 
     // Assign values to the struct members
+
+    //strcpy (String Copy) because C does not allow direct assignment of strings using the = operator, and you need to copy the characters individually.
     strcpy(person1.name, "John");
     person1.age = 25;
     strcpy(person1.address.street, "123 Main St");
