@@ -15,13 +15,10 @@ int main() {
 
     printf("String using array: %s\n", str);
     printf("String using pointer: %s\n", ptr);
-
     // Accessing characters using array notation
     printf("Character at index 0: %c\n", str[0]);
-
     // Accessing characters using pointer notation
     printf("Character at index 0 using pointer: %c\n", *ptr);
-
     // Iterate through the string using a pointer
     printf("Iterating through the string using a pointer:\n");
     while (*ptr != '\0') {
